@@ -1,1 +1,50 @@
-/*  your css code here. If applicable */
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width:90%;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+}
+
+.form-group{
+    margin-bottom:20px;
+}
+
+label{
+    display:block;
+    margin-top:10px;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding:10px;
+}
+
+.delete{
+    background:red;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    cursor:pointer;
+}/*  your css code here. If applicable */
